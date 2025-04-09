@@ -45,6 +45,4 @@ public class HomePage extends BasePage {
     {
         btnSearch.click();
     }
-
-
 }
